@@ -1,0 +1,589 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Shopping_tutorial.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Shopping_tutorial.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\css\\animate.css",
+      "PackagePath": "staticwebassets\\css\\animate.css"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\css\\main.css",
+      "PackagePath": "staticwebassets\\css\\main.css"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\css\\prettyPhoto.css",
+      "PackagePath": "staticwebassets\\css\\prettyPhoto.css"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\css\\price-range.css",
+      "PackagePath": "staticwebassets\\css\\price-range.css"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\image\\404\\404.png",
+      "PackagePath": "staticwebassets\\image\\404\\404.png"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\image\\blog\\blog-one.jpg",
+      "PackagePath": "staticwebassets\\image\\blog\\blog-one.jpg"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\image\\blog\\blog-three.jpg",
+      "PackagePath": "staticwebassets\\image\\blog\\blog-three.jpg"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\image\\blog\\blog-two.jpg",
+      "PackagePath": "staticwebassets\\image\\blog\\blog-two.jpg"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\image\\blog\\man-four.jpg",
+      "PackagePath": "staticwebassets\\image\\blog\\man-four.jpg"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\image\\blog\\man-one.jpg",
+      "PackagePath": "staticwebassets\\image\\blog\\man-one.jpg"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\image\\blog\\man-three.jpg",
+      "PackagePath": "staticwebassets\\image\\blog\\man-three.jpg"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\image\\blog\\man-two.jpg",
+      "PackagePath": "staticwebassets\\image\\blog\\man-two.jpg"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\image\\blog\\socials.png",
+      "PackagePath": "staticwebassets\\image\\blog\\socials.png"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\image\\cart\\one.png",
+      "PackagePath": "staticwebassets\\image\\cart\\one.png"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\image\\cart\\three.png",
+      "PackagePath": "staticwebassets\\image\\cart\\three.png"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\image\\cart\\two.png",
+      "PackagePath": "staticwebassets\\image\\cart\\two.png"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\image\\home\\bg_border.png",
+      "PackagePath": "staticwebassets\\image\\home\\bg_border.png"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\image\\home\\gallery1.jpg",
+      "PackagePath": "staticwebassets\\image\\home\\gallery1.jpg"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\image\\home\\gallery2.jpg",
+      "PackagePath": "staticwebassets\\image\\home\\gallery2.jpg"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\image\\home\\gallery3.jpg",
+      "PackagePath": "staticwebassets\\image\\home\\gallery3.jpg"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\image\\home\\gallery4.jpg",
+      "PackagePath": "staticwebassets\\image\\home\\gallery4.jpg"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\image\\home\\girl1.jpg",
+      "PackagePath": "staticwebassets\\image\\home\\girl1.jpg"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\image\\home\\girl2.jpg",
+      "PackagePath": "staticwebassets\\image\\home\\girl2.jpg"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\image\\home\\girl3.jpg",
+      "PackagePath": "staticwebassets\\image\\home\\girl3.jpg"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\image\\home\\iframe1.png",
+      "PackagePath": "staticwebassets\\image\\home\\iframe1.png"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\image\\home\\iframe2.png",
+      "PackagePath": "staticwebassets\\image\\home\\iframe2.png"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\image\\home\\iframe3.png",
+      "PackagePath": "staticwebassets\\image\\home\\iframe3.png"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\image\\home\\iframe4.png",
+      "PackagePath": "staticwebassets\\image\\home\\iframe4.png"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\image\\home\\logo.png",
+      "PackagePath": "staticwebassets\\image\\home\\logo.png"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\image\\home\\map.png",
+      "PackagePath": "staticwebassets\\image\\home\\map.png"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\image\\home\\new.png",
+      "PackagePath": "staticwebassets\\image\\home\\new.png"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\image\\home\\partner1.png",
+      "PackagePath": "staticwebassets\\image\\home\\partner1.png"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\image\\home\\partner2.png",
+      "PackagePath": "staticwebassets\\image\\home\\partner2.png"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\image\\home\\partner3.png",
+      "PackagePath": "staticwebassets\\image\\home\\partner3.png"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\image\\home\\partner4.png",
+      "PackagePath": "staticwebassets\\image\\home\\partner4.png"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\image\\home\\pricing.png",
+      "PackagePath": "staticwebassets\\image\\home\\pricing.png"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\image\\home\\product1.jpg",
+      "PackagePath": "staticwebassets\\image\\home\\product1.jpg"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\image\\home\\product2.jpg",
+      "PackagePath": "staticwebassets\\image\\home\\product2.jpg"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\image\\home\\product3.jpg",
+      "PackagePath": "staticwebassets\\image\\home\\product3.jpg"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\image\\home\\product4.jpg",
+      "PackagePath": "staticwebassets\\image\\home\\product4.jpg"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\image\\home\\product5.jpg",
+      "PackagePath": "staticwebassets\\image\\home\\product5.jpg"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\image\\home\\product6.jpg",
+      "PackagePath": "staticwebassets\\image\\home\\product6.jpg"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\image\\home\\recommend1.jpg",
+      "PackagePath": "staticwebassets\\image\\home\\recommend1.jpg"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\image\\home\\recommend2.jpg",
+      "PackagePath": "staticwebassets\\image\\home\\recommend2.jpg"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\image\\home\\recommend3.jpg",
+      "PackagePath": "staticwebassets\\image\\home\\recommend3.jpg"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\image\\home\\sale.png",
+      "PackagePath": "staticwebassets\\image\\home\\sale.png"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\image\\home\\searchicon.png",
+      "PackagePath": "staticwebassets\\image\\home\\searchicon.png"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\image\\home\\shipping.jpg",
+      "PackagePath": "staticwebassets\\image\\home\\shipping.jpg"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\image\\product-details\\1.jpg",
+      "PackagePath": "staticwebassets\\image\\product-details\\1.jpg"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\image\\product-details\\new.jpg",
+      "PackagePath": "staticwebassets\\image\\product-details\\new.jpg"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\image\\product-details\\rating.png",
+      "PackagePath": "staticwebassets\\image\\product-details\\rating.png"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\image\\product-details\\share.png",
+      "PackagePath": "staticwebassets\\image\\product-details\\share.png"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\image\\product-details\\similar1.jpg",
+      "PackagePath": "staticwebassets\\image\\product-details\\similar1.jpg"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\image\\product-details\\similar2.jpg",
+      "PackagePath": "staticwebassets\\image\\product-details\\similar2.jpg"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\image\\product-details\\similar3.jpg",
+      "PackagePath": "staticwebassets\\image\\product-details\\similar3.jpg"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\image\\shop\\180f9cf1-a442-4908-953a-247bc8ed4926_236329f927eecb455d62727fe67477d0.jpg",
+      "PackagePath": "staticwebassets\\image\\shop\\180f9cf1-a442-4908-953a-247bc8ed4926_236329f927eecb455d62727fe67477d0.jpg"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\image\\shop\\2ccc8486-bd9f-47af-8662-1b35c7f47ae2_Laptop_Dell_Inspiron_16_N5640_i5_1334U.jpg",
+      "PackagePath": "staticwebassets\\image\\shop\\2ccc8486-bd9f-47af-8662-1b35c7f47ae2_Laptop_Dell_Inspiron_16_N5640_i5_1334U.jpg"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\image\\shop\\a4866463-4620-4196-b1ce-b1a1d0ea8214_dell_inspiron_5440_blue_ee119867e4.png",
+      "PackagePath": "staticwebassets\\image\\shop\\a4866463-4620-4196-b1ce-b1a1d0ea8214_dell_inspiron_5440_blue_ee119867e4.png"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\image\\shop\\advertisement.jpg",
+      "PackagePath": "staticwebassets\\image\\shop\\advertisement.jpg"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\image\\shop\\c59d3ea5-ce93-4d3c-9c4f-8a0486240139_Laptop Dell Latitude L3540 i5.png",
+      "PackagePath": "staticwebassets\\image\\shop\\c59d3ea5-ce93-4d3c-9c4f-8a0486240139_Laptop Dell Latitude L3540 i5.png"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\image\\shop\\dd4779a1-469c-46e3-b928-e5194d9a838a_Macbook Air M3 15 2024.jpg",
+      "PackagePath": "staticwebassets\\image\\shop\\dd4779a1-469c-46e3-b928-e5194d9a838a_Macbook Air M3 15 2024.jpg"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\image\\shop\\dell_xps_14.jpg",
+      "PackagePath": "staticwebassets\\image\\shop\\dell_xps_14.jpg"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\image\\shop\\e237c8ce-f970-466a-99cc-80b871ff3a00_MacBook Air 13 inch M2 2022.jpg",
+      "PackagePath": "staticwebassets\\image\\shop\\e237c8ce-f970-466a-99cc-80b871ff3a00_MacBook Air 13 inch M2 2022.jpg"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\image\\shop\\macbook_air_m1.jpg",
+      "PackagePath": "staticwebassets\\image\\shop\\macbook_air_m1.jpg"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\image\\shop\\product10.jpg",
+      "PackagePath": "staticwebassets\\image\\shop\\product10.jpg"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\image\\shop\\product11.jpg",
+      "PackagePath": "staticwebassets\\image\\shop\\product11.jpg"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\image\\shop\\product12.jpg",
+      "PackagePath": "staticwebassets\\image\\shop\\product12.jpg"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\image\\shop\\product7.jpg",
+      "PackagePath": "staticwebassets\\image\\shop\\product7.jpg"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\image\\shop\\product8.jpg",
+      "PackagePath": "staticwebassets\\image\\shop\\product8.jpg"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\image\\shop\\product9.jpg",
+      "PackagePath": "staticwebassets\\image\\shop\\product9.jpg"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\js\\contact.js",
+      "PackagePath": "staticwebassets\\js\\contact.js"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\js\\gmaps.js",
+      "PackagePath": "staticwebassets\\js\\gmaps.js"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\js\\html5shiv.js",
+      "PackagePath": "staticwebassets\\js\\html5shiv.js"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\js\\jquery.js",
+      "PackagePath": "staticwebassets\\js\\jquery.js"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\js\\jquery.prettyPhoto.js",
+      "PackagePath": "staticwebassets\\js\\jquery.prettyPhoto.js"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\js\\jquery.scrollUp.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.scrollUp.min.js"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\js\\price-range.js",
+      "PackagePath": "staticwebassets\\js\\price-range.js"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\LAMTIWEB\\Shopping_tutorial\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Shopping_tutorial.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Shopping_tutorial.props",
+      "PackagePath": "build\\Shopping_tutorial.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Shopping_tutorial.props",
+      "PackagePath": "buildMultiTargeting\\Shopping_tutorial.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Shopping_tutorial.props",
+      "PackagePath": "buildTransitive\\Shopping_tutorial.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

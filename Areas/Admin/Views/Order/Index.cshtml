@@ -1,0 +1,48 @@
+﻿@model IEnumerable<OrderModel>
+@{
+    ViewData["title"] = "Order Listed";
+}
+<style>
+    .disabled-link {
+        pointer-events: none; /* Ngăn chặn sự kiện click */
+        opacity: 0.5; /* Làm cho liên kết mờ đi */
+        cursor: not-allowed; /* Thay đổi con trỏ thành dạng không được phép */
+    }
+</style>
+<h1>List order</h1>
+<table class="table" style="margin-top: 50px">
+    <thead>
+        <tr>
+
+            <th scope="col" width="200px">Order Code</th>
+            <th scope="col" width="400px">User Name</th>
+            <th scope="col">Created Date</th>
+            <th scope="col">Status</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var item in Model)
+        {
+            <tr>
+                <th scope="row">@item.OrderCode</th>
+                <td>@item.UserName</td>
+                <td>@item.CreatedDate</td>
+                <td>
+                    @if(item.Status == 1)
+                    {
+                        <span class="text text-primary">Chưa duyệt</span>
+                    }
+                    @if (item.Status == 2)
+                    {
+                        <span class="text text-success">Đã duyệt</span>
+                    }
+                    @if (item.Status == 3)
+                    {
+                        <span class="text text-danger">Đã từ chối</span>
+                    }
+                </td>
+                <td><a class="btn btn-success btn-sm" asp-action="ViewOrder" asp-controller="Order" asp-route-OrderCode="@item.OrderCode">View</a></td>   
+            </tr>
+        }       
+    </tbody>
+</table>

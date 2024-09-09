@@ -1,0 +1,39 @@
+﻿@model IEnumerable<ProductModel>
+@{
+    ViewData["title"] = "Product Listed";
+}
+
+<h1>List Product</h1>
+<a asp-action="Add" asp-controller="Product">Add product</a>
+<table class="table" style="margin-top: 50px">
+    <thead>
+        <tr>
+            <th scope="col">ID</th>
+            <th scope="col" width="200px">Name</th>
+            <th scope="col" width="400px">Description</th>
+            <th scope="col">Image</th>
+            <th scope="col">Price</th>
+            <th scope="col">Category</th>
+            <th scope="col">Brand</th>
+            <th scope="col">Products Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var item in Model)
+        {
+            <tr>
+                <th scope="row">@item.Id</th>
+                <td>@item.Name</td>
+                <td>@item.Description</td>
+                <td><img src="~/image/shop/@item.Image" style="width: 100px; height: auto"/></td>
+                <td>@item.Price.ToString("#,##0 VNĐ")</td>
+                <td>@item.Category.Name</td>
+                <td>@item.Brand.Name</td>
+                <td>
+                    <a class="btn btn-warning btn-sm" asp-action="Edit" asp-controller="Product" asp-route-Id="@item.Id">Edit</a>
+                    <a class="btn btn-danger btn-sm confirmDeletion" asp-action="Remove" asp-controller="Product" asp-route-Id="@item.Id">Delete</a>
+                </td>
+            </tr>
+        }       
+    </tbody>
+</table>

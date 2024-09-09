@@ -1,0 +1,66 @@
+﻿@model OrderItemViewModel
+@{
+    ViewData["title"] = "Order Details";
+    decimal GrandTotal = 0;
+}
+<style>
+        .disabled-link {
+        pointer-events: none; /* Ngăn chặn sự kiện click */
+
+        opacity: 0.5; /* Làm cho liên kết mờ đi */
+        cursor: not-allowed; /* Thay đổi con trỏ thành dạng không được phép */
+    }
+</style>
+<h1>Order Details</h1>
+<a asp-action="Index" asp-controller="Order">Back to list order</a>
+<table class="table" style="margin-top: 50px">
+    <thead>
+        <tr>
+            <th scope="col" width="200px">Order Code</th>
+            <th scope="col" width="400px">User Name</th>
+            <th scope="col">Product</th>
+            <th scope="col">Price</th>
+            <th scope="col">Quantity</th>
+            <th scope="col">Total</th>
+        </tr>
+    </thead>
+    <tbody>        
+        @foreach (var item in Model.Items)
+        {
+            <tr>
+                <th scope="row">@item.OrderCode</th>
+                <td>@item.UserName</td>
+                <td>@item.Product.Name</td>
+                <td>@item.Price</td>
+                <td>@item.Quantity</td>
+                <td>@(item.Quantity * item.Price)</td>
+                @{
+                    GrandTotal += item.Quantity * item.Price;
+                }               
+            </tr>
+        }
+        <tr>
+                <td colspan="3"></td>
+                <td colspan="2"><a style="color: #FE980F; font-size: 20px" >Grand Total</a></td>
+                <td><a style="color: #FE980F; font-size: 20px">@GrandTotal</a></td>
+        
+        </tr>
+        @if (Model.Order.Status == 1)
+        {
+            <tr>
+                <td colspan="3"></td>
+
+                <td colspan="2">
+                    <a class="btn btn-warning btn-sm" asp-action="Approve" asp-controller="Order" asp-route-OrderCode="@Model.Order.OrderCode">Phê duyệt</a>
+
+                </td>
+                <td colspan="1">
+                    <a class="btn btn-danger btn-sm" asp-action="Reject" asp-controller="Order" asp-route-OrderCode="@Model.Order.OrderCode">Từ chối</a>
+                </td>
+
+            </tr>
+        }
+     
+    </tbody>
+    
+</table>
