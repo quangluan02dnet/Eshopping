@@ -17,10 +17,20 @@ EShopping is an e-commerce platform developed using ASP.NET Core 6 for the backe
 
 ## Features
 
-- **Product Management:** Easily add, edit, and delete products.
-- **Shopping Cart & Checkout:** Supports dynamic shopping cart and multiple payment methods.
-- **Search & Filtering:** Quickly find products with flexible search and filter options.
-- **User Account Management:** Register, log in, and manage user account information.
+### User Features
+
+- **Shopping Cart:** Add products to the cart and manage the cart contents.
+- **Checkout:** Complete purchases with multiple payment options.
+- **Account Management:** Register, log in.
+
+### Admin Features
+
+- **Product Management:** Manage products.
+- **Brand Management:** Manage product brands.
+- **Category Management:** Manage product categories.
+- **Order Management:** View and approve customer orders.
+- **Account Management:** Manage user accounts.
+- **Role Management:** Assign and manage user roles.
 
 ## Setup
 
