@@ -7,9 +7,6 @@ EShopping is a modern e-commerce application designed to provide a seamless onli
 - [Introduction](#introduction)
 - [Features](#features)
 - [Setup](#setup)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
