@@ -28,7 +28,8 @@ To set up and run this project on your local machine, follow the steps below:
 
 ### Prerequisites
 
-- [.NET Core SDK](https://dotnet.microsoft.com/download) (version >= 6.0)
+- [.NET Core SDK](https://dotnet.microsoft.com/download) (version 6.0.12)
+- [.NET Core Tool](>NET CLI: "dotnet add package Microsoft.EntityFrameworkCore.Tools --version 6.0.21")
 - [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 
 ### Installation
